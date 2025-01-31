@@ -1,0 +1,30 @@
+{
+    "purchased": [{
+        "buyPrice": "25",
+        "colour": "colour",
+        "name": "j",
+        "model": "model",
+        "bidPrice": "10"
+    }],
+    "myBiddings": [{
+        "buyPrice": "120",
+        "colour": "colour",
+        "name": "i",
+        "model": "model",
+        "bidPrice": "80"
+    }],
+    "wishlist": [{
+        "buyPrice": "25",
+        "colour": "colour",
+        "name": "a",
+        "model": "model",
+        "bidPrice": "10"
+    }],
+    "myListing": [{
+        "buyPrice": "25",
+        "colour": "colour",
+        "name": "k",
+        "model": "model",
+        "bidPrice": "10"
+    }]
+}

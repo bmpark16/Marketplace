@@ -1,0 +1,23 @@
+{"sell": [
+    {
+        "buyPrice": "80",
+        "colour": "White",
+        "name": "NIKE",
+        "model": "AJ1 RED TOES",
+        "bidPrice": "65"
+    },
+    {
+        "buyPrice": "75",
+        "colour": "Black",
+        "name": "STUSSY",
+        "model": "Logo Hoodie",
+        "bidPrice": "20"
+    },
+    {
+        "buyPrice": "65",
+        "colour": "White",
+        "name": "CDG",
+        "model": "CDG HEART SHIRT",
+        "bidPrice": "40"
+    }
+]}

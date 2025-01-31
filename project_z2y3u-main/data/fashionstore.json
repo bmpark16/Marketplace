@@ -1,0 +1,18 @@
+{
+    "purchased": [],
+    "myBiddings": [{
+        "buyPrice": "65",
+        "colour": "White",
+        "name": "CDG",
+        "model": "CDG HEART SHIRT",
+        "bidPrice": "40"
+    }],
+    "wishlist": [{
+        "buyPrice": "75",
+        "colour": "Black",
+        "name": "STUSSY",
+        "model": "Logo Hoodie",
+        "bidPrice": "20"
+    }],
+    "myListing": []
+}
